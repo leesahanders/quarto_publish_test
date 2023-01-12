@@ -1,20 +1,18 @@
 # Quarto With the Jupyter Engine
 
-## Deploy
-
 Steps: 
 
 * Test locally
 * Acquire an [API key](https://docs.rstudio.com/connect/user/api-keys/) 
 * Publish with your method of choice 
 
+## Test locally
+
+From VS Code select the `Render` button top right. 
+
+## Deploy
+
 Tip: Use [quarto projects](https://quarto.org/docs/projects/quarto-projects.html) for the most robust publishing experience. The rsconnect-python package (and git backed publishing on Connect) as of 2022/11/07 do not have support for publishing standalone documents and needs quarto content to be in a project. 
-
-**Quarto CLI**
-
-```bash
-quarto publish connect quarto-python-lightbox.qmd
-```
 
 **rsconnect-python**
 
@@ -37,6 +35,12 @@ rsconnect deploy quarto . -n <SERVER-NICKNAME>
 ```
 
 [Important: If your Quarto content contains R code, you cannot use the rsconnect-python CLI's rsconnect deploy quarto function. You can still use rsconnect deploy manifest to deploy content for which a manifest has already been generated.](https://quarto.org/docs/publishing/rstudio-connect.html) Instead use [rsconnect](https://github.com/rstudio/rsconnect). 
+
+**Quarto CLI**
+
+```bash
+quarto publish connect quarto_publish_test.qmd
+```
 
 **git-backed**
 
