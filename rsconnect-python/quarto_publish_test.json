@@ -1,0 +1,20 @@
+{
+    "https://colorado.posit.co/rsc": {
+        "server_url": "https://colorado.posit.co/rsc",
+        "filename": "/usr/home/pritam.dalal/files/quarto/quarto_publish_test",
+        "app_url": "https://colorado.posit.co/rsc/content/54538693-634e-4a35-9a59-2cb488433cde/",
+        "app_id": "54538693-634e-4a35-9a59-2cb488433cde",
+        "app_guid": "54538693-634e-4a35-9a59-2cb488433cde",
+        "title": "quarto_publish_test",
+        "app_mode": "quarto-static"
+    },
+    "https://colorado.posit.co/rsc/": {
+        "server_url": "https://colorado.posit.co/rsc/",
+        "filename": "/usr/home/lisa.anders/Projects/Pritam_debug/quarto_publish_test",
+        "app_url": "https://colorado.posit.co/rsc/content/670a4df3-a88a-4ffc-8fae-bbeac03fe736/",
+        "app_id": "670a4df3-a88a-4ffc-8fae-bbeac03fe736",
+        "app_guid": "670a4df3-a88a-4ffc-8fae-bbeac03fe736",
+        "title": "quarto_publish_test",
+        "app_mode": "quarto-static"
+    }
+}

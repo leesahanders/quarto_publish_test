@@ -1,0 +1,13 @@
+name: publish_test
+title: publish_test
+username: pritam.dalal
+account: pritam.dalal
+server: colorado.posit.co
+hostUrl: https://colorado.posit.co/rsc/__api__
+appId: 14483
+bundleId: 67908
+url: https://colorado.posit.co/rsc/content/8d315b62-622b-4625-965b-4194a050d742/
+when: 1673529985.76798
+lastSyncTime: 1673529985.76799
+asMultiple: FALSE
+asStatic: TRUE
