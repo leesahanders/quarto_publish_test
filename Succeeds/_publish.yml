@@ -1,0 +1,4 @@
+- source: quarto_publish_test.qmd
+  connect:
+    - id: 21a090a5-35f3-408b-a029-b7d1843b11ac
+      url: 'https://colorado.posit.co/rsc/content/21a090a5-35f3-408b-a029-b7d1843b11ac/'

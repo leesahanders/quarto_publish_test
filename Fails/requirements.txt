@@ -1,0 +1,16 @@
+json5
+jsonschema
+jupyter
+jupyter_client
+jupyter-console
+jupyter_core
+jupyter-server
+jupyter-server-mathjax
+jupyter-server-proxy
+jupyterlab
+jupyterlab-git
+jupyterlab-pygments
+jupyterlab_server
+jupyterlab-widgets
+numpy --no-binary numpy
+matplotlib

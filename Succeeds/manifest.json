@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "locale": "en_US.UTF-8",
+  "metadata": {
+    "appmode": "quarto-static"
+  },
+  "quarto": {
+    "version": "1.1.189",
+    "engines": [
+      "jupyter",
+      "markdown"
+    ]
+  },
+  "python": {
+    "version": "3.10.4",
+    "package_manager": {
+      "name": "pip",
+      "version": "22.3.1",
+      "package_file": "requirements.txt"
+    }
+  },
+  "files": {
+    "_publish.yml": {
+      "checksum": "f20dd730a631d34cc0704b1417ad9f09"
+    },
+    "_quarto.yml": {
+      "checksum": "d29fa7a2dc374a9e8e8b3c9a23a44be1"
+    },
+    "publish_test.html": {
+      "checksum": "c218e4bd0665959b5990c75ca035b8bb"
+    },
+    "publish_test.qmd": {
+      "checksum": "cec7d62935f56e55266ab3a5489f7f10"
+    },
+    "publish_test_files/libs/bootstrap/bootstrap-icons.css": {
+      "checksum": "3104c106b6c22560ae274d7c56f116c5"
+    },
+    "publish_test_files/libs/bootstrap/bootstrap-icons.woff": {
+      "checksum": "e4cc83ddcec34db65724eb56c5230b4c"
+    },
+    "publish_test_files/libs/bootstrap/bootstrap.min.css": {
+      "checksum": "fef8602bfff06909c1157a6fddf0545a"
+    },
+    "publish_test_files/libs/bootstrap/bootstrap.min.js": {
+      "checksum": "7ccd9d390d31af98110f74f842ea9b32"
+    },
+    "publish_test_files/libs/clipboard/clipboard.min.js": {
+      "checksum": "ad98572d415d2f2452845a6068a913c0"
+    },
+    "publish_test_files/libs/quarto-html/anchor.min.js": {
+      "checksum": "a58f4bdbf86e8ae057af9131b5b1bcfd"
+    },
+    "publish_test_files/libs/quarto-html/popper.min.js": {
+      "checksum": "ad6c106f3ba17d5a54d8053a4c4899ca"
+    },
+    "publish_test_files/libs/quarto-html/quarto-syntax-highlighting.css": {
+      "checksum": "099cd394577c915952e100d918f76f84"
+    },
+    "publish_test_files/libs/quarto-html/quarto.js": {
+      "checksum": "84b5b88230a1ec3d72af672e400e38c1"
+    },
+    "publish_test_files/libs/quarto-html/tippy.css": {
+      "checksum": "ebd6f8ce46a677e1a4f5f8a8317109a9"
+    },
+    "publish_test_files/libs/quarto-html/tippy.umd.min.js": {
+      "checksum": "d828775275749701b48bd9d958814111"
+    },
+    "quarto_publish_test.html": {
+      "checksum": "3897038f4445be0b22695f815bdf177d"
+    },
+    "quarto_publish_test.qmd": {
+      "checksum": "216d5a618fe58d3cf7caa6fa46b5826c"
+    },
+    "quarto_publish_test/_quarto.yml": {
+      "checksum": "298b14cb850c315c48736fdf50f577c6"
+    },
+    "quarto_publish_test/quarto_publish_test.qmd": {
+      "checksum": "3b1c60c9734003386116c6e75849529a"
+    },
+    "quarto_publish_test_files/figure-html/fig-polar-output-1.png": {
+      "checksum": "f76757513c34ffcc1f3b2966082c7239"
+    },
+    "quarto_publish_test_files/libs/bootstrap/bootstrap-icons.css": {
+      "checksum": "3104c106b6c22560ae274d7c56f116c5"
+    },
+    "quarto_publish_test_files/libs/bootstrap/bootstrap-icons.woff": {
+      "checksum": "e4cc83ddcec34db65724eb56c5230b4c"
+    },
+    "quarto_publish_test_files/libs/bootstrap/bootstrap.min.css": {
+      "checksum": "fef8602bfff06909c1157a6fddf0545a"
+    },
+    "quarto_publish_test_files/libs/bootstrap/bootstrap.min.js": {
+      "checksum": "7ccd9d390d31af98110f74f842ea9b32"
+    },
+    "quarto_publish_test_files/libs/clipboard/clipboard.min.js": {
+      "checksum": "ad98572d415d2f2452845a6068a913c0"
+    },
+    "quarto_publish_test_files/libs/quarto-html/anchor.min.js": {
+      "checksum": "a58f4bdbf86e8ae057af9131b5b1bcfd"
+    },
+    "quarto_publish_test_files/libs/quarto-html/popper.min.js": {
+      "checksum": "ad6c106f3ba17d5a54d8053a4c4899ca"
+    },
+    "quarto_publish_test_files/libs/quarto-html/quarto-syntax-highlighting.css": {
+      "checksum": "099cd394577c915952e100d918f76f84"
+    },
+    "quarto_publish_test_files/libs/quarto-html/quarto.js": {
+      "checksum": "84b5b88230a1ec3d72af672e400e38c1"
+    },
+    "quarto_publish_test_files/libs/quarto-html/tippy.css": {
+      "checksum": "ebd6f8ce46a677e1a4f5f8a8317109a9"
+    },
+    "quarto_publish_test_files/libs/quarto-html/tippy.umd.min.js": {
+      "checksum": "d828775275749701b48bd9d958814111"
+    },
+    "requirements.txt": {
+      "checksum": "585a0235ce3be52ebcaa41924fa663bb"
+    }
+  }
+}
