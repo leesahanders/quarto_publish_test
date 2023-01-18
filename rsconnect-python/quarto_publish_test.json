@@ -1,0 +1,11 @@
+{
+    "https://colorado.posit.co/rsc/": {
+        "server_url": "https://colorado.posit.co/rsc/",
+        "filename": "/usr/home/lisa.anders/Projects/Pritam_debug/quarto_publish_test",
+        "app_url": "https://colorado.posit.co/rsc/content/aebd6908-1522-4f59-8f3c-607e38215c99/",
+        "app_id": "aebd6908-1522-4f59-8f3c-607e38215c99",
+        "app_guid": "aebd6908-1522-4f59-8f3c-607e38215c99",
+        "title": "quarto_publish_test",
+        "app_mode": "quarto-static"
+    }
+}
